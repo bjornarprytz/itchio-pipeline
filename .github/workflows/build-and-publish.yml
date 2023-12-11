@@ -7,7 +7,7 @@ on:
       - "v*"
 
 env:
-  ITCHIO_USERNAME: bjornarprytz
+  ITCHIO_USERNAME: [ITCHIO_USERNAME]
   GAME_NAME: [GAME_NAME]
   PROJECT_PATH: "./src/"
   GODOT_VERSION: [GODOT_VERSION]
